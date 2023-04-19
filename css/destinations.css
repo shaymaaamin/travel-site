@@ -1,0 +1,43 @@
+.days {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h2 {
+  border-bottom: 3px solid black;
+  width: 100%;
+}
+.day {
+  background-color: white;
+  width: 15rem;
+  text-align: center;
+  padding: 10px;
+}
+h1 {
+  color: white;
+  font-size: 4rem;
+  font-weight: bolder;
+}
+.back {
+  background-color: #fefaf5;
+  border: transparent;
+  margin: 1rem;
+  padding: 1rem;
+}
+.days-wrapper {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+
+.days-wrapper.greece {
+  background-image: url("/assets/images/greece.jpg");
+}
+
+.days-wrapper.hawaii {
+  background-image: url("/assets/images/hawaii.jpg");
+}
+.days-wrapper.iceland {
+  background-image: url("/assets/images/iceland.jpg");
+}
