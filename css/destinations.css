@@ -32,12 +32,12 @@ h1 {
 }
 
 .days-wrapper.greece {
-  background-image: url("/assets/images/greece.jpg");
+  background-image: url("../assets/images/greece.jpg");
 }
 
 .days-wrapper.hawaii {
-  background-image: url("/assets/images/hawaii.jpg");
+  background-image: url("../assets/images/hawaii.jpg");
 }
 .days-wrapper.iceland {
-  background-image: url("/assets/images/iceland.jpg");
+  background-image: url("../assets/images/iceland.jpg");
 }
